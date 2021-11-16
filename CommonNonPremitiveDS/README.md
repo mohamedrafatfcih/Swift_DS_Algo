@@ -37,3 +37,16 @@
 
   - Example Case:
       - Assume that you have a list of employees and the search operation is very important for you (because it the most frequant operation in your system). So, you decided to store them in such away that gives you O(1) in search. at that time you can use the HashTable DS.
+
+
+## Tree
+   - It is a non-linear (heirarchal) DS.
+   - There are variations of tree DS like :
+        - Binary Tree
+        - Red-Black Tree
+        - R Tree
+        - Trie , etc..
+ 
+ 
+   - Example Case:
+     - You have a family and you want to store the family members in such a way to preserve their heirarchy.
