@@ -28,3 +28,12 @@
    - Example Case:
        - Assume that you have students in a class and you want to place them. Also, you want from each one to know who is his before and after classmates.
   
+
+## HashTable
+  - Notes:
+      - Search complexity is O(1).
+      - Insertion, Deletion depends on the bucket size (hashtable slot).
+
+
+  - Example Case:
+      - Assume that you have a list of employees and the search operation is very important for you (because it the most frequant operation in your system). So, you decided to store them in such away that gives you O(1) in search. at that time you can use the HashTable DS.
