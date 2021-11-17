@@ -50,3 +50,17 @@
  
    - Example Case:
      - You have a family and you want to store the family members in such a way to preserve their heirarchy.
+
+
+## Trie
+
+   - Notes: 
+        - Each node store one character.
+        - It is better than HashTable DS in case of string prefix matching.
+            - No collisions.
+            - No hash function.
+            - Better worst case.
+            
+   - Example Case:
+      - Assume you have a language consist of number of characters then you want to check if a word or a set of words exists in that language words or not. at that case, we can use a Trie DS to store your language words which enables the fast querying.
+
