@@ -13,3 +13,5 @@
   - Linked List
     - Single Linked List
     - Double Linked List
+  - Tree
+  - Trie
