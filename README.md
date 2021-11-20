@@ -14,4 +14,6 @@
     - Single Linked List
     - Double Linked List
   - Tree
+     - Binary Tree (BT).
+     - Binary Search Tree (BST).
   - Trie
