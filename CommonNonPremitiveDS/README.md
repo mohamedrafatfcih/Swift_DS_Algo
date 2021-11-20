@@ -54,6 +54,17 @@
                 - Pre-Order  -> i.e. (parent, left, right)
                 - In-Order -> i.e. (left, parent, right)
                 - Post-Order -> i.e. (left, right, node)
+
+
+        - Binary Search Tree (BST):
+            -  Notes:
+                - It is a binary tree.
+                - always any node is greater than its left child and less than its right child.
+                - Insertion, search and deletion complexity in most cases is O(log n).
+                - If all nodes values have some ascending/descending order the BST may end up with a linear structure like Linked List DS. So, the tree operations complexity will be O(n). (worst senario).
+            
+            - Example Case:-
+                - Assume you have already decided to store your data in a tree DS and you want to reduce the search time and keep the data in a sorted manner. So, BST is a good tree variant for such case. (But, consider the worst case).
                 
         - Red-Black Tree
         - R Tree
