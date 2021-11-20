@@ -43,6 +43,18 @@
    - It is a non-linear (heirarchal) DS.
    - There are variations of tree DS like :
         - Binary Tree
+            - Notes:-
+            - BT has variations like:
+                - Full Binary Tree.
+                - Perfect Binary Tree.
+                - Complete Binary Tree.
+                - Balanced Binary Tree.
+                - etc...
+            - Travese/search types:
+                - Pre-Order  -> i.e. (parent, left, right)
+                - In-Order -> i.e. (left, parent, right)
+                - Post-Order -> i.e. (left, right, node)
+                
         - Red-Black Tree
         - R Tree
         - Trie , etc..
