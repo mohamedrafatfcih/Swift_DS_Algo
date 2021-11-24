@@ -46,3 +46,20 @@
                 - It go through all steps enven if the array is sorted.
                 - Use more memory. (Not in-place sorting)
                 - Not faster than others in case of small arrays.
+
+
+
+
+  - Quick Sort:
+      - It split the array into two parts depend on an element selected as a pivot. then, it sort the elements less than pivot before pivot position (left side) and the elements greater than pivot after the pivot position (right side).
+      - Notes:
+          - It uses recursive approach.
+          - Pivot selection strategy:
+                - First element.
+                - Last element.
+                - Random element.
+                - Median-of-three. (lowest, center, heighest)
+          - In-place sorting.
+          - Complexity:
+              - Average case is O(n log n).
+              - Worst case is O(n^2).
