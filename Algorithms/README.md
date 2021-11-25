@@ -63,3 +63,18 @@
           - Complexity:
               - Average case is O(n log n).
               - Worst case is O(n^2).
+
+
+
+   - Linear Search:
+      - Notes:
+          - Efficient memory.
+          - Works good for sorted and unsorted lists.
+          - Complexity is O(n). So, it  is efficient for small list but not better when list go larger.
+
+
+  - Binary Search:
+       - Notes:
+           - It require the list to be sorted.
+           - Complexity is O(log n).
+           - It is not better than the linear search when the list is small.
