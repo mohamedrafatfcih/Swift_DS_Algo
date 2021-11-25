@@ -24,3 +24,7 @@
     - Selection Sort.
     - Insertion Sort.
     - Merge Sort.
+
+ - Searching
+    - Linear Search.
+    - Binary Search.
