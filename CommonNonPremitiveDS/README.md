@@ -87,3 +87,21 @@
    - Example Case:
       - Assume you have a language consist of number of characters then you want to check if a word or a set of words exists in that language words or not. at that case, we can use a Trie DS to store your language words which enables the fast querying.
 
+
+
+
+## Graph
+   - It is a DS consist of set of vertices and set of edges.
+   - G = {V, E} where V = [v1, v2,....] & E = [e1, e2, ....]
+   - Notes:
+       - Each node has a value, edge to connect it with its adjacents.
+       - Connection can be:
+          - Directed.
+          - Un-directed.
+          - Weighted.
+          - Un-weighted.
+       - Graph can vary depend on the number of connections.
+            - Full connected.
+            - Sparse.
+            - etc...
+
