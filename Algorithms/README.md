@@ -66,6 +66,8 @@
 
 
 
+  ## Searching
+
    - Linear Search:
       - Notes:
           - Efficient memory.
@@ -78,3 +80,20 @@
            - It require the list to be sorted.
            - Complexity is O(log n).
            - It is not better than the linear search when the list is small.
+
+
+
+ ## Graph Traversing
+ 
+  - Breadth First Search:  (BFS)
+    
+    - It traverse the graph level by level.
+    - It uses a queue for exploring the neighbors nodes.
+    - Always find a solution.
+    - May be, there are more than one solution.
+
+  - Breadth First Search: (BFS)
+     - It traverse the graph level by level.
+     - It uses a queue for exploring the neighbors nodes.
+     - Always find a solution.
+     - May be, there are more than one solution.
