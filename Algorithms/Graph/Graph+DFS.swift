@@ -1,6 +1,6 @@
 //
 //  Graph+DFS.swift
-//  
+//
 //
 //  Created by MohamedRafat on 11/28/21.
 //
@@ -29,7 +29,6 @@ class GraphNode<T> {
     
     func addNeighbor(_ node: GraphNode) {
         children.append(node)
-        node.children.append(node)
     }
     
     func traverseDFS(_ visit: (GraphNode) -> Void) {
