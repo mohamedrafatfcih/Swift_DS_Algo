@@ -28,3 +28,8 @@
  - Searching
     - Linear Search.
     - Binary Search.
+
+- Graph
+   - Breadth First Search (BFS).
+   - Depth First Search (DFS).
+   - Dijkstra
