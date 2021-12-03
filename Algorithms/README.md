@@ -97,3 +97,14 @@
      - It uses a queue for exploring the neighbors nodes.
      - Always find a solution.
      - May be, there are more than one solution.
+
+  - Dijkstra Algorithm:
+      - Notes:
+           - It finds the shortest path between two points.
+           - It can be used in:
+              - maps.
+              - telephone networks.
+              - etc..
+           - Drawbacks:
+              - It may take a lot of time in search.
+              - It stuck where there are negative edges.
